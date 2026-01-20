@@ -23,8 +23,8 @@ This project is a Python-based AI assistant that fetches **real-time weather dat
 ### **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/basic-weather-ai.git
-cd basic-weather-ai
+git clone https://github.com/YOUR_GITHUB_USERNAME/basic-weather-ai-assistant.git
+cd basic-weather-ai-assistant
 ```
 ### **2. Create a virtual environment (recommended)
 ```bash
