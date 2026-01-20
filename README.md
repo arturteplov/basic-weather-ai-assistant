@@ -44,6 +44,7 @@ openai
 ```
 ### **4. Create a .env file**
 OPENAI_API_KEY=sk-YOUR_OPENAI_KEY
+
 WEATHER_API_KEY=YOUR_WEATHERAPI_KEY
 
 ---
